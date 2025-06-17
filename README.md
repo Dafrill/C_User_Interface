@@ -12,9 +12,9 @@ If you are having issues with GTK, you can follow these steps:
 1. Download and install MSYS2 • Visit https://www.msys2.org 
 
 2. Update MSYS2 packages Open the MSYS2 directory and launch mingw bash, then run:
-
-`pacman -Syu`
-`pacman -Su`
+<pre>
+pacman -Syu
+pacman -Su</pre>
 3. Install GTK3 compilation packages In the Bash terminal, enter the following (adjust the command if you're using a system with a different architecture):
 
 
